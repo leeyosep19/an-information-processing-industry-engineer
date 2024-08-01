@@ -1,9 +1,42 @@
 # 네트워크(Network)의 기본
 --------------------
 
-Network 란?
+### Network 란?
+```
+NET  : 그물망     WORK : 일하다,작업하다
+NETWORK : 망을 만드는 작업
 
-|<img src= "https://github.com/user-attachments/assets/951966ec-d4f5-438a-8d07-a6944df6da63"width="200" height="200"/>|![search pstatic](https://github.com/user-attachments/assets/c96178db-7e85-4dfe-8e9d-6c997c6f237d)|
-|-|-|
-|ㅇ|ㅇ|
-|3|3|
+▶️ 데이터 교환을 위해 통신장치를 연결한 통신망
+```
+
+### NETWORK 연결형태
+![3](https://github.com/user-attachments/assets/5fea0150-f905-4a1e-8a90-34e8f61134f0)
+```
+☑️ RING형 =  한 방향으로만 전송
+☑️ STAR형 =  중앙집중식 구조 , 각 장치간 통신이 독립적이며 단일 장치장애가 전체 네트워크영향을 미치지않는다
+              단 중계장치에 장애 발생시 모든 통신이 중단 될수있다.
+☑️ TREE형 =  통신선로의 총경로가 가장 짧음, 접속되는 단말기의 숫자에 맞는 통신장비 이용
+☑️ MESH형 =  통신선로의 총길이가 가장 긴 네트워크, 공중통신망에 많이 사용
+☑️ BUS형  =  단일통신라인(멀티탭의 원리와 동일), 설치비가 적어 비용이 ⬇️
+             단 한 선에 데이터가 몰리게 된다면, 병목 현상이 일어나게된다
+
+```
+
+### NETWORK 종류
+#### LAN (Local Area Network)
+```
+
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
