@@ -5,4 +5,4 @@
 
 ## 01 응용 SW 기초 기술 활용
 
-### [ 1.네트워크 기초](an-information-processing-industry-engineer/Network/www1.md)
+### [ 1.네트워크 기초](.an-information-processing-industry-engineer/Network/www1.md)
