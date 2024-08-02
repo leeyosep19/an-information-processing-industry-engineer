@@ -17,5 +17,6 @@
 |이더넷 케이블 (Ethernet Cable)|광섬유 케이블 (Fiber Optic Cable)|동축 케이블 (Coaxial Cable)|
 |-|-|-|
 |![10](https://github.com/user-attachments/assets/052e01d4-3864-47de-8988-8f3b1950a497)|![11](https://github.com/user-attachments/assets/ed853c31-97bd-4240-a174-91e9a70b763f)|![12](https://github.com/user-attachments/assets/2ead616b-74a2-4b0d-9a6f-d383373c048d)|
-|p|P|p|
+|종류|종류|종류|
+|utp/ftp/stp|q|q|
 
