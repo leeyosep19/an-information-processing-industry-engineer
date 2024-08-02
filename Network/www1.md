@@ -50,14 +50,15 @@ NETWORK : 망을 만드는 작업
 
 #### WAN 구성 요소
 
-☑️라우터 (Routers)
-☑️전송 매체 (Transmission Media)
-☑️스위치 (Switches)
-☑️모뎀 (Modems)
-☑️WAN 연결 장비
+☑️라우터 (Routers)<BR>
+☑️전송 매체 (Transmission Media)<BR>
+☑️스위치 (Switches)<BR>
+☑️모뎀 (Modems)<BR>
+☑️WAN 연결 장비<BR>
 
 
 ```
+WAN 의 기술
 전용 회선 (Leased Lines)
   특징: 고정 대역폭을 제공하며, 항상 연결되어 있는 상태를 유지합니다.
   장점: 안정적이고 신뢰성이 높음.
