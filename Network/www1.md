@@ -23,8 +23,11 @@ NETWORK : 망을 만드는 작업
 ```
 
 ### NETWORK 종류
-#### LAN (Local Area Network)
+#### LAN (Local Area Network)  / WAN(Wide Area Network)
 ```
+LAN
+ 비교적 작은 지리적 범위 내에 있는 컴퓨터와 네트워크 장치들을 상호 연결하여 데이터를 주고받을 수 있도록 하는 네트워크
+근거리 통신망 / 데이터 속도 높음 /설치비용이 비교적 낮음 / 설치 와 유지보수가 간단함 / 외부 네트워크에 비해 보안에 용이
 
 ```
 
