@@ -133,7 +133,7 @@ SD-WAN (Software-Defined WAN)
 
 ```
 
-#### [해답](.Network/Q&A/1.md)
+#### [해답](Q&A/1.md)
 
 
 
