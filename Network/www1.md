@@ -113,5 +113,27 @@ SD-WAN (Software-Defined WAN)
 ![11](https://github.com/user-attachments/assets/8919959d-8acc-4043-8316-0da4877d1d8e)
 
 
+ ### ✔️정리 (한번더 생각해보기)
+```
+1. Network 는 무엇이며 무엇을 목적은?
+
+2. Network 의 종류는?
+
+3. LAN 의 특징은?
+
+4. WAN의 특징에은?
+
+5. InterNet 이란?
+
+6. 프로토콜이란?
+
+7. 네트워킹 모델의 목적은?
+
+8. TCP/IP 모델과 OSI 7 모델의 계층과 각 계층별 역할?
+
+```
+
+#### [해답](.)
+
 
 
