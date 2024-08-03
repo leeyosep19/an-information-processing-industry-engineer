@@ -16,12 +16,11 @@
 ```
 ### 데이터링크 계층 장치
 ```
-L2 SWITCH
-Bridge
-네트워크 인터페이스 카드 (NIC, Network Interface Card)
-무선 액세스 포인트 (Wireless Access Point)
+☑️L2 SWITCH
+☑️Bridge
+☑️네트워크 인터페이스 카드 (NIC, Network Interface Card)
+☑️무선 액세스 포인트 (Wireless Access Point)
 ```
-
 
 
 
