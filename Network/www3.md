@@ -24,7 +24,7 @@
 ### 데이터 링크에 사용되는 프로토콜
 ## LAN
 ```
-이더넷 (Ethernet):
+☑️이더넷 (Ethernet):
 가장 널리 사용되는 LAN 프로토콜로, IEEE 802.3 표준을 따릅니다.
  CSMA/CD (Carrier Sense Multiple Access with Collision Detection) 방식을 사용하여 충돌을 감지하고 처리합니다.
 CSMA/CD : '대충 알아서 눈치껏 통신하자' 라는 방식의 프로토콜이다. 
@@ -38,17 +38,17 @@ CSMA/CD의 방식
 - 만약, 충돌이 일어나게 된다면 데이터를 전송했던 두 PC나 서버들은 랜덤한 시간 동안 기다린 다음 다시 데이터를 전송한다.
 - 이런 충돌이 계속해서 15번 일어나면 통신을 끊는다.
 
-Wi-Fi (Wireless Fidelity):
+☑️Wi-Fi (Wireless Fidelity):
   무선 LAN 환경에서 사용되며, IEEE 802.11 표준을 따릅니다.
   다양한 버전(802.11a, 802.11b, 802.11g, 802.11n, 802.11ac 등)이 있으며,
   주로 CSMA/CA (Carrier Sense Multiple Access with Collision Avoidance) 방식을 사용합니다.
 CSMA/CA : 무선에서 가장 많이 쓰는 방식이다. 무선랜, wifi가 있으며 RTS, CTS라는 메세지가 등장하고 에러의 최소화에 주목한다. CD는 탐지였다면, CA는 with Collision Avoidance를 뜻하며, 말 그대로 에러를 회피하도록 만든다
 
-토큰 링 (Token Ring):
+☑️토큰 링 (Token Ring):
   IEEE 802.5 표준을 따르며, 토큰 패싱 방식을 사용하여 네트워크 상의 충돌을 방지합니다.
   링 형태의 네트워크 토폴로지에서 사용됩니다.
 
-FDDI (Fiber Distributed Data Interface):
+☑️FDDI (Fiber Distributed Data Interface):
   광섬유를 이용한 LAN 프로토콜로, 고속 데이터 전송을 지원합니다.
   이중 링 구조를 사용하여 장애 허용성과 신뢰성을 높입니다.
 ```
