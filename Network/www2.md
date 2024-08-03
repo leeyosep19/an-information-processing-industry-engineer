@@ -38,5 +38,35 @@
 |-|-|-|
 |![10](https://github.com/user-attachments/assets/052e01d4-3864-47de-8988-8f3b1950a497)|![11](https://github.com/user-attachments/assets/ed853c31-97bd-4240-a174-91e9a70b763f)|![12](https://github.com/user-attachments/assets/2ead616b-74a2-4b0d-9a6f-d383373c048d)|
 |종류|종류|종류|
-|utp/ftp/stp|q|q|
+|utp/ftp/stp|싱글모드(Single-Mode Fiber, SMF): 긴 거리 전송에 적합<br>멀티모드(Multi-Mode Fiber, MMF): 짧은 거리에서 높은 대역폭을 제공|주로 케이블 TV 네트워크와 같은 특수한 애플리케이션에서 사용되며, 데이터 전송에도 사용|
+
+#### 리피터
+신호 증폭 장치
+![R](https://github.com/user-attachments/assets/a7946830-728c-4da1-9853-bcee26fcad7f)
+
+#### 허브
+![20240803_154725](https://github.com/user-attachments/assets/3d3d9393-6c05-4c00-90c7-6ac2f54733d5)
+
+여러 대의 컴퓨터 간 통신이 가능<br>
+리피터처럼 신호를 증폭시키는 기능을 가지고 있음<br>
+발송지 데이터가 나머지 모든 컴퓨터에 전달됨<br>
+
+#### 한번더 생각해보기
+```
+1 물리계층 하는일/역할/관련 장치는?
+
+2 Cable 이란
+
+3 LAN Cable 종류
+
+4 부호(Code) 란?
+
+5 신호(Signal)이란?
+
+6 신호전달에 필요한 요소?
+
+7 리피터란?
+
+8 허브란
+```
 
