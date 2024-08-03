@@ -99,4 +99,4 @@ CSMA/CD(Carrier Sense Multiple Access/Collision Detection) 반송파 감지 다�
 
 ```
 
-[해설](.)
+[해설](Q&A/2st.md)
