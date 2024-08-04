@@ -53,5 +53,5 @@ RIP,EIGRP,OSPF,ISIS,BGP,Static Routing ...
 ```
 
 
-[해설](.)
+[해설](Q&A/3st.md)
 
