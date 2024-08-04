@@ -11,8 +11,8 @@
 ```
 ### 네트워크 계층 장치
 ```
-라우터 (Router)
-레이어 3 스위치 (Layer 3 Switch)
+☑️라우터 (Router)
+☑️레이어 3 스위치 (Layer 3 Switch)
 ```
 ### 프로토콜의 종류
 
@@ -36,7 +36,22 @@ RIP,EIGRP,OSPF,ISIS,BGP,Static Routing ...
 ```
 ![2](https://github.com/user-attachments/assets/6fddaee8-c406-48fe-9395-d9d4390adae0)
 
+#### ✔️정리 (한번더 생각해보기)
+```
+1 OSI 모델중 3계층 모델이 하는 역할은 무엇인가?
+
+2 3계층 관련 장치는 무엇인가?
+
+3 3계층 관련 프로토콜 종류는 어떤게 있나?
+
+4 ICMP 의 용도는?
+
+5 IP 의 용도는?
+
+6 Routing 프로토콜의 용도는?
+
+```
 
 
-[해설]
+[해설](.)
 
