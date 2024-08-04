@@ -8,6 +8,7 @@
 ### [ 1.네트워크 기초](Network/www1.md)
 | 네트워크 기초| [ 네트워크 기초](Network/www1.md) |
 |-|-|
+|OSI|-|
 |1계층|[물리계층](Network/www2.md)|
 |2계층|[데이터 링크](Network/www3.md)| 
 |3계층|[네트워크의 기본](Network/www.4.md)
