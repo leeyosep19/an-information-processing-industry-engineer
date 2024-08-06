@@ -26,14 +26,14 @@
 [톰켓 사이트]https://tomcat.apache.org/download-80
 
 
-[MYSQL 사이트] https://dev.mysql.com/downloads/mysql/load MySQL Community Server
+[MYSQL 사이트] https://dev.mysql.com/downloads/mysql/load
 
 [다이어 그램(ERD) 사이트]https://app.diagrams.net/
 
 [우툰즈 사이트]
-URL=https://ubuntu.com/download/desktop
+URL=https://ubuntu.com/download/
 
-[CentOS 사이트]https://www.centos.org/download/
+[CentOS 사이트]https://www.centos.org/
 
-[리룩스 사이트] https://www.virtualbox.org/wiki/Downloadsox
+[리룩스 사이트] https://www.virtualbox.org/
 
