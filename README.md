@@ -30,8 +30,7 @@ URL=https://tomcat.apache.org/download-80.cgi
 
 [MYSQL 사이트] [Uploading MySQL -- Down[InternetShortcut]URL=https://dev.mysql.com/downloads/mysql/load MySQL Community Server.url…]()
 
-[다이어 그램(ERD) 사이트][Uploading draw.io.url…]()[InternetShortcut]
-URL=https://app.diagrams.net/
+[다이어 그램(ERD) 사이트]https://app.diagrams.net/
 
 [우툰즈 사이트][Uploading Download Ubuntu Desk[InternetShortcut]
 URL=https://ubuntu.com/download/desktop
