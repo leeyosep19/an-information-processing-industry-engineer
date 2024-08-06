@@ -23,22 +23,17 @@
 ### 미들웨어
 [이클립스 사이트]
 
-[톰켓 사이트][Uploading Apache Tomcat® - Apache[InternetShortcut]
-URL=https://tomcat.apache.org/download-80.cgi
- Tomcat 8 Software Downloads.url…]()
+[톰켓 사이트]https://tomcat.apache.org/download-80
 
 
-[MYSQL 사이트] [Uploading MySQL -- Down[InternetShortcut]URL=https://dev.mysql.com/downloads/mysql/load MySQL Community Server.url…]()
+[MYSQL 사이트] https://dev.mysql.com/downloads/mysql/load MySQL Community Server
 
 [다이어 그램(ERD) 사이트]https://app.diagrams.net/
 
-[우툰즈 사이트][Uploading Download Ubuntu Desk[InternetShortcut]
+[우툰즈 사이트]
 URL=https://ubuntu.com/download/desktop
-top - Ubuntu.url…]()
 
-[CentOS 사이트][Uploading Download.url…]()[InternetShortcut]
-URL=https://www.centos.org/download/
+[CentOS 사이트]https://www.centos.org/download/
 
-[리룩스 사이트] [Uploading Downloads – Oracle VM VirtualB[InternetShortcut]
-URL=https://www.virtualbox.org/wiki/Downloadsox.url…]()
+[리룩스 사이트] https://www.virtualbox.org/wiki/Downloadsox
 
