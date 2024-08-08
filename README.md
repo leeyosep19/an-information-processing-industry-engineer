@@ -39,3 +39,5 @@ URL=https://ubuntu.com/download/
 
 [리룩스 사이트] https://www.virtualbox.org/
 
+
+### 리눅스(LINUX) [정리](.)
