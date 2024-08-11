@@ -20,6 +20,8 @@ EX) man [옵션][-m system][-p system][-P pager][-S sectpon_list][section]명령
  |현재 실행중인 프로세스목록과 상태확인|주어진 입력값에서 패턴에 맞는 값출력|프로세스종료|명령어 별칭 만들기|
  |vi/vim|man|chmod|rmdir|
  |편집기|리눅스 명령어의 사용법, 옵션, 기능 등을 설명하는 매뉴얼 페이지를 제공한다.|파일/디렉터리의 접근 권한을 변경하는 명령어|디렉토리를 삭제한다.|
+ |chown||||
+ |소유권 변경 명령어||||
 
 ![pwd](https://github.com/user-attachments/assets/249d5486-3753-4cc8-bc77-d37e60c89ec7)
 ![image](https://github.com/user-attachments/assets/9c7a2ab9-d86d-4789-81da-6f306e7675ca)
