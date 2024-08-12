@@ -8,7 +8,7 @@ EX) man [옵션][-m system][-p system][-P pager][-S sectpon_list][section]명령
  |||||
  |-|-|-|-|
  |||||
- |pwd|ls|cd|makdir|
+ |pwd|ls|cd|mkdir|
  |현재위치출력|현재디렉토리내의 파일과 디렉토리연결(절댓값위치)|디렉터의이동|디렉터리생성|
  |cp|mv|rm|cat|
  |파일또는 디렉터리 복사|파일또는 디렉터리이동|파일또는 디렉터리 삭제|파일 내용 확인|
