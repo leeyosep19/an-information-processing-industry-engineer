@@ -1,1 +1,1 @@
-### css01 01BlockVsLine.html [정리](Network/CSS/01.v.md)
+### css01 01BlockVsLine.html [정리](01.v.md)
