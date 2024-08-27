@@ -50,4 +50,4 @@ URL=https://ubuntu.com/download/
 ### 깃허브 이클립스 연동 [](.)
 ### 화면설계[정리](.)
 ### HTML [정리](Network/HTML/01.md)
-### CSS [정리](.)
+### CSS [정리](Network/CSS/01.v.md)
